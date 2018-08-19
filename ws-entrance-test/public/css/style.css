@@ -1,0 +1,22 @@
+.header-buttons {
+	padding-top: 3%;
+	padding-bottom: 6%;
+}
+
+.cat-list {
+	margin-top: 3%;
+}
+
+.list-category {
+	margin-top: 2%;
+}
+
+.list-category .sub-cat {
+	padding-left: 2%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#prod_desc {
+	height: 2%;
+}
